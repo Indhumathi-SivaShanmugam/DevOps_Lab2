@@ -6,9 +6,6 @@ def add_student(name, mark):
 
 
 
-
-
-
 print("STUDENT MARKS ANALYZER")
 def display_students():
     for student in students:
@@ -16,10 +13,11 @@ def display_students():
 
 print("STUDENT MARKS ANALYZER")
 
-
+def calculate_average(): total = sum(student["mark"] for student in students) return total / len(students)
 
 def highest_mark():
     return max(students, key=lambda student: student["mark"])
 
 
 print("STUDENT MARKS ANALYZER")
+
