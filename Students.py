@@ -13,9 +13,5 @@ def highest_mark():
     return max(students, key=lambda student: student["mark"])
 
 print("STUDENT MARKS ANALYZER")
-<<<<<<< HEAD
 
-
-=======
 print("Im making random changes")
->>>>>>> ad0045add74137b13a34e643331365d5c8bcf85f
