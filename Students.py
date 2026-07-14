@@ -4,3 +4,11 @@ def display_students():
         print(student["name"], student["mark"])
 
 print("STUDENT MARKS ANALYZER")
+
+
+
+def highest_mark():
+    return max(students, key=lambda student: student["mark"])
+
+
+print("STUDENT MARKS ANALYZER")
