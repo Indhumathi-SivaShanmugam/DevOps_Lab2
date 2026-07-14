@@ -1,7 +1,7 @@
 # DevOps_Lab2
 
-Hi yall! this is a dummy repo 
-WE ARE doing this for fun! :)
+Hi yall! this is a practice repo 
+WE ARE doing this for learning! :)
 <p align="center">
   <img src="https://png.pngtree.com/png-vector/20190223/ourmid/pngtree-student-glyph-black-icon-png-image_691145.jpg" width="150">
    <img src="https://images.scalebranding.com/modern-swinging-tree-logo-7ada1ffe-b54c-426f-905e-569ed6c5a38f.jpg" width="180">
