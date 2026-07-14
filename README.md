@@ -1,4 +1,9 @@
 # DevOps_Lab2
+
+Hi yall! this is a dummy repo 
+WE ARE doing this for fun! :)
+
+
 students = []
 
 
